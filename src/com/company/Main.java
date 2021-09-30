@@ -26,7 +26,7 @@ public class Main {
         System.out.println("|----|");
         System.out.println();
 
-        //Printovanie mirrornut0ho trojuholníka
+        //Printovanie mirrornutého trojuholníka
         for (int i = 1; i <= vyska; i++){
             for (int j = 1; j <= vyska - i; j++){
                 System.out.print(" ");
